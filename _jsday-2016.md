@@ -31,3 +31,9 @@ Introductory article in Opera Dev center https://dev.opera.com/articles/web-blue
 
 #### Libraries
 - node-eddystone-beacon
+
+#### Missing parts
+- scan RSSI and txPower
+- Get EddyStone url
+- Better docs by hardware maker
+- Firefox is not going to implement it soon
