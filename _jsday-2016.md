@@ -68,3 +68,18 @@ Learning curve mainly referred to the new vocabulary.
 
 #### Cycle.js
 http://cycle.js.org/
+
+## Out of the browser and onto the streets - @rumyra
+
+#### Web Audio APIs
+- concept of nodes
+- input node
+- create audio with oscillator
+
+#### Web MIDI APIs
+Music Instrument Digital Interface.
+
+Every sound is a message.
+
+[144,60,100]
+[Message type, Note, Velocity/pressure]
