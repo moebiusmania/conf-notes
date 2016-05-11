@@ -37,3 +37,34 @@ Introductory article in Opera Dev center https://dev.opera.com/articles/web-blue
 - Get EddyStone url
 - Better docs by hardware maker
 - Firefox is not going to implement it soon
+
+## Reactive programming with cycle.js - @lucamezzalira
+
+#### Agenda
+- reactive programming
+- model view intent
+- cycle.js
+
+#### Programming paradigms
+- Imperative | focuses on describing how program operates
+- Functional | everything is a (asyncronous) function
+- Reactive
+
+#### Reactive programming
+AngularJS 2 will include cycle.js
+
+#### RxJS
+Learning curve mainly referred to the new vocabulary.
+
+- streams | sequence of ongoing events oredered in time
+
+#### Architecture Timeline
+- MVC (80s)
+- MVP (90s)
+- MVVM (2005)
+- DCI (2009)
+- Flux (2013)
+- MVI (2015)
+
+#### Cycle.js
+http://cycle.js.org/
