@@ -25,3 +25,24 @@
 - being a Web Developer not a framework developer
 - Custom elements + domain based service
 - Standards **are** the Web
+
+## A Polymer Experience - Wendy Ginsberg
+
+**Polymon**: PWA game in Polymer + Firebase
+
+- Frictionless download
+- Service worker (connectivity issue, cache)
+- Native look and feel
+- 200kb!
+
+## Polymer 2.0: Under the Hood - Rob Dodson
+
+- Polymer is an **opinionated usage** of Web Components.
+- HTML tags are **instances** of classes. (```<input>``` -> HTMLInputElement).
+- in **constructor()** you cant access children or attributes
+- Manipulate DOM with nativa & Shadow DOM APIs
+- You can extend single utility of Polymer not only whole library.
+- Can **extend other Custom Elements**!
+- No more mutation setters
+- #usetheplatform :)
+
