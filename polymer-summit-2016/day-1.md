@@ -1,4 +1,4 @@
-# Polymer Summit 2015 - Day 1
+# Polymer Summit 2016 - Day 1
 
 ## Opening keynote - @taylorthesavage
 
@@ -64,4 +64,15 @@
 ## Data Flow in Polymer Elements and Apps - Gray Norton
 
 - Every modern frontend framework approched the components model
+
+## Evolving chromestatus.com into a Lightning-Fast PWA - Eric Bidelman
+
+- Chrome 52 settings page built in Polymer
+- using async in link tags
+- async load polyfills
+- lazy load
+- dom: 'shadow', lazyLoad: 'max', useNativeCSSProperties: true
+- link rel preload as "html" or "script"
+- poly-icon.appspot.com
+- appmetric.js (NPM), bindable with Google Analytics
 
