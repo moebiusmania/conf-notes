@@ -44,5 +44,24 @@
 - You can extend single utility of Polymer not only whole library.
 - Can **extend other Custom Elements**!
 - No more mutation setters
-- #usetheplatform :)
+- ```#usetheplatform``` :)
+
+## Polymer 2.0 in 2.0 seconds: Upgrading Projects Large and Small - Peter Burns
+
+- Minimally breaking
+- ```<content>``` replaced by ```<slot>```
+- Upgrader and linter tool, written in NodeJS
+- Hybrid mode: use Polymer 1.0 and Polymer 2.0 components together.
+
+## Polymer Butter and Firebase Jelly - Michael Bleigh
+
+- Web push in Firebase as Cloud Messaging Service!
+- Used by alibaba.com
+- updated PolymerFire, Cloud Messaging integrated as component.
+- send message to app wheter or not its open (based on service workers)
+- ```#loosethebackend``` :)
+
+## Data Flow in Polymer Elements and Apps - Gray Norton
+
+- Every modern frontend framework approched the components model
 
