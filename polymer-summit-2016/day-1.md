@@ -17,3 +17,11 @@
   - standards based, community driven
   - **beta.webcomponents.org** new components library (store like)! 
 
+## The Way of the Web @ ING - Ben Issa 
+
+- Size of a single page today is the same of **Doom** game
+- iPhone 7 perform as 2013 MacBook Pro
+- RDD resume driven development :D 
+- being a Web Developer not a framework developer
+- Custom elements + domain based service
+- Standards **are** the Web
