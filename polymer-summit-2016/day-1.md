@@ -76,3 +76,22 @@
 - poly-icon.appspot.com
 - appmetric.js (NPM), bindable with Google Analytics
 
+## Production-Ready Polymer Elements - A How-To-Guide - Daniel Freedman
+
+- Polymer team uses Travis CI
+
+## Codelab: Building an Image Carousel Element with Polymer 2.0 - Keanu Lee
+
+https://codelabs.developers.google.com/codelabs/polymer-2-carousel/index.html
+
+## Interacting with the Physical Web - Scott Jenson
+
+- The Web needs a discovery sevice
+- physicalweb.org
+
+## Monster Apps - Chris Joel
+
+- Media capture & streams API ```navigator.mediaDevices```
+- ```canvas.drawImage()``` to get screenshot from a video element and downsample at the same time
+- https://github.com/cdata/meat-scope-elements
+- CommonWorker library to encode GIF
