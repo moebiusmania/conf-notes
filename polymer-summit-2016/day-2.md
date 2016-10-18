@@ -20,3 +20,7 @@
   - contextual autom completion (properties, methods,...)
   - open source
   - Polymer Editor Service, codebase for Plugin cross editor
+
+## Related Codelabs
+
+https://codelabs.developers.google.com/polymer-summit-2016
