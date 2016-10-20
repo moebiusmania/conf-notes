@@ -2,8 +2,8 @@
 
 ## Opening keynote - @taylorthesavage
 
-- mobile: acceleration with web platform (PWA) 
-- **use the platform!** 
+- mobile: acceleration with web platform (PWA)
+- **use the platform!**
   - vanilla/native API FTW
   - be selective with abstraction
 - Web Components
@@ -15,13 +15,22 @@
   - 2016 adopters; Comcast, USA Today, ING, Coca Cola, EA, Predix (GE), **YouTube** (new)
   - pre release Polymer 2.0 (Web Components v1, ES6 classes, more Vanilla APIs, hybrid mode, **12kb**)
   - standards based, community driven
-  - **beta.webcomponents.org** new components library (store like)! 
+  - **beta.webcomponents.org** new components library (store like)!
+  - Polymer has more HTML-CSS lines of code than any other framework.
+  - Suggested components quality criteria:
+    - Repo
+    - I18n
+    - A11y (accessible)
+    - Tests
+    - Demo
+    - Blueprint/Mocks
+    - Docs
 
-## The Way of the Web @ ING - Ben Issa 
+## The Way of the Web @ ING - Ben Issa
 
 - Size of a single page today is the same of **Doom** game
 - iPhone 7 perform as 2013 MacBook Pro
-- RDD resume driven development :D 
+- RDD resume driven development :D
 - being a Web Developer not a framework developer
 - Custom elements + domain based service
 - Standards **are** the Web
@@ -39,8 +48,10 @@
 
 - Polymer is an **opinionated usage** of Web Components.
 - HTML tags are **instances** of classes. (```<input>``` -> HTMLInputElement).
-- in **constructor()** you cant access children or attributes
-- Manipulate DOM with nativa & Shadow DOM APIs
+- in **constructor()** you cant access the DOM.
+- Manipulate DOM with native & Shadow DOM APIs.
+- Dispatch an event for every state change.
+- PolymerElement is a collection of mixins that extend the HTMLElement.
 - You can extend single utility of Polymer not only whole library.
 - Can **extend other Custom Elements**!
 - No more mutation setters
@@ -63,7 +74,7 @@
 
 ## Data Flow in Polymer Elements and Apps - Gray Norton
 
-- Every modern frontend framework approched the components model
+- Every modern frontend framework approched the components model.
 
 ## Evolving chromestatus.com into a Lightning-Fast PWA - Eric Bidelman
 
@@ -79,6 +90,13 @@
 ## Production-Ready Polymer Elements - A How-To-Guide - Daniel Freedman
 
 - Polymer team uses Travis CI
+- PRPL pattern:
+  - Lazy load Polyfills.
+  - Async HTML imports.
+  - Link rel="preload".
+  - h2 push manifest.
+  - lazy-load non critical components.
+  - appmetrics.js
 
 ## Codelab: Building an Image Carousel Element with Polymer 2.0 - Keanu Lee
 
